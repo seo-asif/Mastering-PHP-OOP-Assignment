@@ -1,7 +1,7 @@
 # Mastering-PHP-OOP-Assignment
 
 
-##Online Shopping Cart System
+## Online Shopping Cart System
 
 In this project, I have implemented a `Product` class that represents a product in the online shopping cart system. The `Product` class has the following properties:
 
